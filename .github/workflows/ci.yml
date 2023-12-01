@@ -1,0 +1,26 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  train-test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Install dependencies
+        run: pip install -r requirements.txt ruff black
+      - name: Lint
+        run: ruff check . || true
+      - name: Train model (synthetic data)
+        run: python predictor.py --train
+        continue-on-error: true
+      - name: Predict
+        run: python predictor.py --predict
+        continue-on-error: true
