@@ -7,3 +7,7 @@ All notable changes are documented here.
 - feat: add grid position as primary input feature
 
 
+### 2022-01-19
+- style: fix ruff violations in predictor module
+
+
