@@ -11,3 +11,7 @@ All notable changes are documented here.
 - style: fix ruff violations in predictor module
 
 
+### 2022-01-21
+- docs: add model training guide to README setup section
+
+
