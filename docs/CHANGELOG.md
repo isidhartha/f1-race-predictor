@@ -15,3 +15,7 @@ All notable changes are documented here.
 - docs: add model training guide to README setup section
 
 
+### 2022-01-24
+- chore: add .gitignore for model and data files
+
+
