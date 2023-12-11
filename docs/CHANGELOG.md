@@ -19,3 +19,7 @@ All notable changes are documented here.
 - chore: add .gitignore for model and data files
 
 
+### 2022-01-26
+- chore: add pre-commit hooks for black and ruff
+
+
