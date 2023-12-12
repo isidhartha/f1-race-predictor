@@ -23,3 +23,7 @@ All notable changes are documented here.
 - chore: add pre-commit hooks for black and ruff
 
 
+### 2022-01-27
+- feat: add safety car laps count as race variable
+
+
