@@ -27,3 +27,7 @@ All notable changes are documented here.
 - feat: add safety car laps count as race variable
 
 
+### 2022-02-09
+- chore: pin scikit-learn to 1.3 for API stability
+
+
