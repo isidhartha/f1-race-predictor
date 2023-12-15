@@ -31,3 +31,7 @@ All notable changes are documented here.
 - chore: pin scikit-learn to 1.3 for API stability
 
 
+### 2022-02-09
+- feat: add circuit-specific encoding as categorical feature
+
+
