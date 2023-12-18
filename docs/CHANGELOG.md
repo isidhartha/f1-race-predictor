@@ -35,3 +35,7 @@ All notable changes are documented here.
 - feat: add circuit-specific encoding as categorical feature
 
 
+### 2022-02-19
+- feat: implement batch prediction from CSV file input
+
+
