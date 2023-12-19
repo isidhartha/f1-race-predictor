@@ -39,3 +39,7 @@ All notable changes are documented here.
 - feat: implement batch prediction from CSV file input
 
 
+### 2022-02-24
+- style: format with black
+
+
