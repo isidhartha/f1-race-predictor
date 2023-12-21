@@ -43,3 +43,7 @@ All notable changes are documented here.
 - style: format with black
 
 
+### 2022-03-04
+- chore: add .gitignore for model and data files
+
+
