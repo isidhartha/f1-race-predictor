@@ -47,3 +47,7 @@ All notable changes are documented here.
 - chore: add .gitignore for model and data files
 
 
+### 2022-03-06
+- fix: correct model save path creation when models dir missing
+
+
