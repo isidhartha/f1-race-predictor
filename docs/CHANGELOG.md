@@ -51,3 +51,7 @@ All notable changes are documented here.
 - fix: correct model save path creation when models dir missing
 
 
+### 2022-03-11
+- docs: add model selection rationale to architecture.md
+
+
