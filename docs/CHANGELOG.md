@@ -55,3 +55,7 @@ All notable changes are documented here.
 - docs: add model selection rationale to architecture.md
 
 
+### 2022-03-13
+- chore: add pre-commit hooks for black and ruff
+
+
