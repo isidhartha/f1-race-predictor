@@ -63,3 +63,7 @@ All notable changes are documented here.
 - feat: add training progress logging to stdout
 
 
+### 2022-03-16
+- feat: add synthetic data generator for demo and CI mode
+
+
