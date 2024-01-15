@@ -67,3 +67,7 @@ All notable changes are documented here.
 - feat: add synthetic data generator for demo and CI mode
 
 
+### 2022-03-17
+- feat: implement qualifying time feature in milliseconds
+
+
