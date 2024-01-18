@@ -75,3 +75,7 @@ All notable changes are documented here.
 - refactor: move model path to environment variable
 
 
+### 2022-03-23
+- feat: add driver championship points before race feature
+
+
