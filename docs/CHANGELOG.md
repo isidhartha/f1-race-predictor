@@ -79,3 +79,7 @@ All notable changes are documented here.
 - feat: add driver championship points before race feature
 
 
+### 2022-03-26
+- chore: pin scikit-learn to 1.3 for API stability
+
+
