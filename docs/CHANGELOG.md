@@ -83,3 +83,7 @@ All notable changes are documented here.
 - chore: pin scikit-learn to 1.3 for API stability
 
 
+### 2022-04-01
+- feat: add synthetic data generator for demo and CI mode
+
+
