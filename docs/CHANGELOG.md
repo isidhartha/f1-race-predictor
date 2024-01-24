@@ -87,3 +87,7 @@ All notable changes are documented here.
 - feat: add synthetic data generator for demo and CI mode
 
 
+### 2022-04-06
+- feat: implement batch prediction from CSV file input
+
+
