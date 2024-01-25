@@ -91,3 +91,7 @@ All notable changes are documented here.
 - feat: implement batch prediction from CSV file input
 
 
+### 2022-04-06
+- style: fix ruff violations in predictor module
+
+
