@@ -95,3 +95,7 @@ All notable changes are documented here.
 - style: fix ruff violations in predictor module
 
 
+### 2022-04-07
+- feat: add driver championship points before race feature
+
+
