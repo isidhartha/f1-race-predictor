@@ -99,3 +99,7 @@ All notable changes are documented here.
 - feat: add driver championship points before race feature
 
 
+### 2022-04-11
+- feat: implement classification report with per-class metrics
+
+
