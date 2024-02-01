@@ -103,3 +103,7 @@ All notable changes are documented here.
 - feat: implement classification report with per-class metrics
 
 
+### 2022-04-11
+- feat: implement 80/20 train-test split with random seed
+
+
