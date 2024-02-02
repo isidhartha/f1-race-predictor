@@ -107,3 +107,7 @@ All notable changes are documented here.
 - feat: implement 80/20 train-test split with random seed
 
 
+### 2022-04-22
+- docs: update architecture.md with ML pipeline diagram
+
+
