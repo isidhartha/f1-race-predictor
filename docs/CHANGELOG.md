@@ -111,3 +111,7 @@ All notable changes are documented here.
 - docs: update architecture.md with ML pipeline diagram
 
 
+### 2022-04-26
+- chore: update requirements.txt with pinned versions
+
+
