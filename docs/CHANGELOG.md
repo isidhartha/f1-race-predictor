@@ -115,3 +115,7 @@ All notable changes are documented here.
 - chore: update requirements.txt with pinned versions
 
 
+### 2022-04-28
+- feat: add example prediction with sample input dictionary
+
+
