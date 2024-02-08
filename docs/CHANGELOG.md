@@ -119,3 +119,7 @@ All notable changes are documented here.
 - feat: add example prediction with sample input dictionary
 
 
+### 2022-05-05
+- fix: fix safety car lap count parsing from raw data
+
+
