@@ -123,3 +123,7 @@ All notable changes are documented here.
 - fix: fix safety car lap count parsing from raw data
 
 
+### 2022-05-13
+- docs: add model selection rationale to architecture.md
+
+
