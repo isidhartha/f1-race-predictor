@@ -131,3 +131,7 @@ All notable changes are documented here.
 - test: add CLI argument parsing tests
 
 
+### 2022-05-21
+- chore: pin scikit-learn to 1.3 for API stability
+
+
