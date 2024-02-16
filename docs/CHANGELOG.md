@@ -139,3 +139,7 @@ All notable changes are documented here.
 - feat: add driver championship points before race feature
 
 
+### 2022-05-30
+- docs: document synthetic data schema and generation logic
+
+
