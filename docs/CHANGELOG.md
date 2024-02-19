@@ -143,3 +143,7 @@ All notable changes are documented here.
 - docs: document synthetic data schema and generation logic
 
 
+### 2022-05-30
+- feat: add example prediction with sample input dictionary
+
+
