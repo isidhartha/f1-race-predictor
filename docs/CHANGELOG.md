@@ -147,3 +147,7 @@ All notable changes are documented here.
 - feat: add example prediction with sample input dictionary
 
 
+### 2022-05-31
+- refactor: extract evaluation metrics into helper function
+
+
