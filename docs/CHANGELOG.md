@@ -151,3 +151,7 @@ All notable changes are documented here.
 - refactor: extract evaluation metrics into helper function
 
 
+### 2022-06-01
+- refactor: consolidate model save and load logic
+
+
