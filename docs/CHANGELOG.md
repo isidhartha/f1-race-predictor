@@ -155,3 +155,7 @@ All notable changes are documented here.
 - refactor: consolidate model save and load logic
 
 
+### 2022-06-02
+- test: add CLI argument parsing tests
+
+
