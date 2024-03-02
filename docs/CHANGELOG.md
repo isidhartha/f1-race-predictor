@@ -159,3 +159,7 @@ All notable changes are documented here.
 - test: add CLI argument parsing tests
 
 
+### 2022-06-02
+- feat: implement hyperparameter configuration via constants
+
+
