@@ -163,3 +163,7 @@ All notable changes are documented here.
 - feat: implement hyperparameter configuration via constants
 
 
+### 2022-06-03
+- style: fix ruff violations in predictor module
+
+
