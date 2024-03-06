@@ -167,3 +167,7 @@ All notable changes are documented here.
 - style: fix ruff violations in predictor module
 
 
+### 2022-06-08
+- fix: correct model save path creation when models dir missing
+
+
