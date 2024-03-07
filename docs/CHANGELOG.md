@@ -171,3 +171,7 @@ All notable changes are documented here.
 - fix: correct model save path creation when models dir missing
 
 
+### 2022-06-09
+- feat: implement 80/20 train-test split with random seed
+
+
