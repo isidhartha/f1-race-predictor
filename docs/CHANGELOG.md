@@ -175,3 +175,7 @@ All notable changes are documented here.
 - feat: implement 80/20 train-test split with random seed
 
 
+### 2022-06-13
+- feat: add feature importance output after training
+
+
