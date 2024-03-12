@@ -179,3 +179,7 @@ All notable changes are documented here.
 - feat: add feature importance output after training
 
 
+### 2022-06-20
+- perf: cache fitted label encoder to avoid re-fitting
+
+
