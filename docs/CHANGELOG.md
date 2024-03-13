@@ -183,3 +183,7 @@ All notable changes are documented here.
 - perf: cache fitted label encoder to avoid re-fitting
 
 
+### 2022-06-22
+- fix: handle edge case with zero pit stops in feature
+
+
