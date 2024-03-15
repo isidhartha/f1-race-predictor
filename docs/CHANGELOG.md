@@ -187,3 +187,7 @@ All notable changes are documented here.
 - fix: handle edge case with zero pit stops in feature
 
 
+### 2022-06-25
+- fix: handle corrupt joblib file with clear error message
+
+
