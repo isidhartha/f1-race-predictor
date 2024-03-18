@@ -191,3 +191,7 @@ All notable changes are documented here.
 - fix: handle corrupt joblib file with clear error message
 
 
+### 2022-06-28
+- refactor: move model path to environment variable
+
+
