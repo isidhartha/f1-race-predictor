@@ -195,3 +195,7 @@ All notable changes are documented here.
 - refactor: move model path to environment variable
 
 
+### 2022-06-30
+- refactor: extract feature engineering into sklearn pipeline
+
+
