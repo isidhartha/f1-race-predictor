@@ -199,3 +199,7 @@ All notable changes are documented here.
 - refactor: extract feature engineering into sklearn pipeline
 
 
+### 2022-07-11
+- fix: resolve label encoding issue for unseen circuit IDs
+
+
