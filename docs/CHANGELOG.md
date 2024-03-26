@@ -207,3 +207,7 @@ All notable changes are documented here.
 - style: normalise imports with isort
 
 
+### 2022-07-18
+- refactor: separate synthetic data into data_utils module
+
+
