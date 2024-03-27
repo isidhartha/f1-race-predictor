@@ -211,3 +211,7 @@ All notable changes are documented here.
 - refactor: separate synthetic data into data_utils module
 
 
+### 2022-07-20
+- feat: implement batch prediction from CSV file input
+
+
