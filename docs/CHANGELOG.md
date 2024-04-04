@@ -227,3 +227,7 @@ All notable changes are documented here.
 - fix: correct model save path creation when models dir missing
 
 
+### 2022-07-26
+- refactor: rename feature columns for clarity
+
+
