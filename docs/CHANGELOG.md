@@ -231,3 +231,7 @@ All notable changes are documented here.
 - refactor: rename feature columns for clarity
 
 
+### 2022-07-29
+- fix: handle missing values in qualifying time column
+
+
