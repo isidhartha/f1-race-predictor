@@ -235,3 +235,7 @@ All notable changes are documented here.
 - fix: handle missing values in qualifying time column
 
 
+### 2022-07-29
+- chore: add .gitignore for model and data files
+
+
