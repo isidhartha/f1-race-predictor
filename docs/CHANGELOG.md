@@ -247,3 +247,7 @@ All notable changes are documented here.
 - feat: add example prediction with sample input dictionary
 
 
+### 2022-08-08
+- test: add model save and reload round-trip test
+
+
