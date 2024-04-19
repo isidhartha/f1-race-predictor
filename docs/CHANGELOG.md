@@ -255,3 +255,7 @@ All notable changes are documented here.
 - fix: correct model save path creation when models dir missing
 
 
+### 2022-08-10
+- feat: add driver championship points before race feature
+
+
