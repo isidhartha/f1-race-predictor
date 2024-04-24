@@ -263,3 +263,7 @@ All notable changes are documented here.
 - feat: add grid position as primary input feature
 
 
+### 2022-08-29
+- feat: implement qualifying time feature in milliseconds
+
+
