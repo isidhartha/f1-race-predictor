@@ -267,3 +267,7 @@ All notable changes are documented here.
 - feat: implement qualifying time feature in milliseconds
 
 
+### 2022-08-30
+- perf: use joblib parallel backend for cross-validation
+
+
