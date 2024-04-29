@@ -271,3 +271,7 @@ All notable changes are documented here.
 - perf: use joblib parallel backend for cross-validation
 
 
+### 2022-08-31
+- feat: implement 80/20 train-test split with random seed
+
+
