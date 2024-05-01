@@ -275,3 +275,7 @@ All notable changes are documented here.
 - feat: implement 80/20 train-test split with random seed
 
 
+### 2022-09-13
+- feat: add driver championship points before race feature
+
+
