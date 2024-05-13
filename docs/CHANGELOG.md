@@ -287,3 +287,7 @@ All notable changes are documented here.
 - feat: implement qualifying time feature in milliseconds
 
 
+### 2022-09-16
+- fix: correct feature ordering in prediction input dict
+
+
