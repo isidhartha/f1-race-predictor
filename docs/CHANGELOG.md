@@ -291,3 +291,7 @@ All notable changes are documented here.
 - fix: correct feature ordering in prediction input dict
 
 
+### 2022-09-17
+- fix: handle missing values in qualifying time column
+
+
