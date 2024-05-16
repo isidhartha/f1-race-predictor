@@ -295,3 +295,7 @@ All notable changes are documented here.
 - fix: handle missing values in qualifying time column
 
 
+### 2022-09-18
+- refactor: extract feature engineering into sklearn pipeline
+
+
