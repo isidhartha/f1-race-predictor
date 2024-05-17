@@ -299,3 +299,7 @@ All notable changes are documented here.
 - refactor: extract feature engineering into sklearn pipeline
 
 
+### 2022-09-20
+- feat: add safety car laps count as race variable
+
+
