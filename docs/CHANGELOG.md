@@ -303,3 +303,7 @@ All notable changes are documented here.
 - feat: add safety car laps count as race variable
 
 
+### 2022-09-21
+- feat: implement hyperparameter configuration via constants
+
+
