@@ -307,3 +307,7 @@ All notable changes are documented here.
 - feat: implement hyperparameter configuration via constants
 
 
+### 2022-09-29
+- refactor: move model path to environment variable
+
+
