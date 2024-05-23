@@ -311,3 +311,7 @@ All notable changes are documented here.
 - refactor: move model path to environment variable
 
 
+### 2022-10-03
+- test: add CLI argument parsing tests
+
+
