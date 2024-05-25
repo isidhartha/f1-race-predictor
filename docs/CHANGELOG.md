@@ -315,3 +315,7 @@ All notable changes are documented here.
 - test: add CLI argument parsing tests
 
 
+### 2022-10-05
+- chore: update requirements.txt with pinned versions
+
+
