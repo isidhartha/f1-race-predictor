@@ -319,3 +319,7 @@ All notable changes are documented here.
 - chore: update requirements.txt with pinned versions
 
 
+### 2022-10-06
+- fix: handle edge case with zero pit stops in feature
+
+
