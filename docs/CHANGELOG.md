@@ -323,3 +323,7 @@ All notable changes are documented here.
 - fix: handle edge case with zero pit stops in feature
 
 
+### 2022-10-12
+- fix: resolve joblib version compatibility with sklearn
+
+
