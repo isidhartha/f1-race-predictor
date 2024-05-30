@@ -327,3 +327,7 @@ All notable changes are documented here.
 - fix: resolve joblib version compatibility with sklearn
 
 
+### 2022-10-12
+- feat: add model persistence with joblib serialisation
+
+
