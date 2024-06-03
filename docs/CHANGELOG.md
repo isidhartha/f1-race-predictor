@@ -331,3 +331,7 @@ All notable changes are documented here.
 - feat: add model persistence with joblib serialisation
 
 
+### 2022-10-20
+- feat: implement batch prediction from CSV file input
+
+
