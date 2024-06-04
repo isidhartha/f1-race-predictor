@@ -335,3 +335,7 @@ All notable changes are documented here.
 - feat: implement batch prediction from CSV file input
 
 
+### 2022-10-21
+- test: add CLI argument parsing tests
+
+
