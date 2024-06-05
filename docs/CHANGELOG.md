@@ -339,3 +339,7 @@ All notable changes are documented here.
 - test: add CLI argument parsing tests
 
 
+### 2022-10-22
+- fix: resolve label encoding issue for unseen circuit IDs
+
+
