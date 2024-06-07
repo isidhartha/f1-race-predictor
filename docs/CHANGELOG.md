@@ -343,3 +343,7 @@ All notable changes are documented here.
 - fix: resolve label encoding issue for unseen circuit IDs
 
 
+### 2022-10-22
+- feat: add training progress logging to stdout
+
+
