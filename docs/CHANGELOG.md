@@ -347,3 +347,7 @@ All notable changes are documented here.
 - feat: add training progress logging to stdout
 
 
+### 2022-10-23
+- feat: implement pit stop count as strategy proxy feature
+
+
