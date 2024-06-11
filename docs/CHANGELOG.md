@@ -351,3 +351,7 @@ All notable changes are documented here.
 - feat: implement pit stop count as strategy proxy feature
 
 
+### 2022-11-03
+- refactor: separate synthetic data into data_utils module
+
+
