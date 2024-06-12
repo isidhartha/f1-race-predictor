@@ -355,3 +355,7 @@ All notable changes are documented here.
 - refactor: separate synthetic data into data_utils module
 
 
+### 2022-11-05
+- fix: handle new circuit IDs at prediction time gracefully
+
+
