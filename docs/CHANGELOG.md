@@ -359,3 +359,7 @@ All notable changes are documented here.
 - fix: handle new circuit IDs at prediction time gracefully
 
 
+### 2022-11-07
+- docs: document synthetic data schema and generation logic
+
+
