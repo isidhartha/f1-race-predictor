@@ -363,3 +363,7 @@ All notable changes are documented here.
 - docs: document synthetic data schema and generation logic
 
 
+### 2022-11-12
+- feat: implement classification report with per-class metrics
+
+
