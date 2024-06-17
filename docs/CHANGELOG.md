@@ -367,3 +367,7 @@ All notable changes are documented here.
 - feat: implement classification report with per-class metrics
 
 
+### 2022-11-19
+- test: add CLI argument parsing tests
+
+
