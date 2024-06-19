@@ -375,3 +375,7 @@ All notable changes are documented here.
 - fix: fix random state parameter for full reproducibility
 
 
+### 2022-11-28
+- fix: fix safety car lap count parsing from raw data
+
+
