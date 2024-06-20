@@ -379,3 +379,7 @@ All notable changes are documented here.
 - fix: fix safety car lap count parsing from raw data
 
 
+### 2022-12-05
+- feat: implement 80/20 train-test split with random seed
+
+
