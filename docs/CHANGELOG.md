@@ -387,3 +387,7 @@ All notable changes are documented here.
 - refactor: extract feature engineering into sklearn pipeline
 
 
+### 2022-12-11
+- docs: add model selection rationale to architecture.md
+
+
