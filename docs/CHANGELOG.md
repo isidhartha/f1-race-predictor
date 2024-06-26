@@ -391,3 +391,7 @@ All notable changes are documented here.
 - docs: add model selection rationale to architecture.md
 
 
+### 2022-12-18
+- chore: pin scikit-learn to 1.3 for API stability
+
+
