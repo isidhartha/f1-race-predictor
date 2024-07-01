@@ -399,3 +399,7 @@ All notable changes are documented here.
 - feat: implement batch prediction from CSV file input
 
 
+### 2022-12-30
+- refactor: rename feature columns for clarity
+
+
