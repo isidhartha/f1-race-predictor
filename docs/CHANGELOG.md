@@ -403,3 +403,7 @@ All notable changes are documented here.
 - refactor: rename feature columns for clarity
 
 
+### 2023-01-03
+- feat: implement batch prediction from CSV file input
+
+
