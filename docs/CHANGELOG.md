@@ -411,3 +411,7 @@ All notable changes are documented here.
 - feat: add model persistence with joblib serialisation
 
 
+### 2023-01-09
+- refactor: rename feature columns for clarity
+
+
