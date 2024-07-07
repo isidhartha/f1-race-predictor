@@ -415,3 +415,7 @@ All notable changes are documented here.
 - refactor: rename feature columns for clarity
 
 
+### 2023-01-17
+- test: add synthetic data generator shape and type tests
+
+
