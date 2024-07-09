@@ -419,3 +419,7 @@ All notable changes are documented here.
 - test: add synthetic data generator shape and type tests
 
 
+### 2023-01-24
+- test: add CLI argument parsing tests
+
+
