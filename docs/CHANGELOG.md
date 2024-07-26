@@ -423,3 +423,7 @@ All notable changes are documented here.
 - test: add CLI argument parsing tests
 
 
+### 2023-01-26
+- docs: add model training guide to README setup section
+
+
