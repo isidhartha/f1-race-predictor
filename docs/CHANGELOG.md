@@ -427,3 +427,7 @@ All notable changes are documented here.
 - docs: add model training guide to README setup section
 
 
+### 2023-01-26
+- chore: pin scikit-learn to 1.3 for API stability
+
+
