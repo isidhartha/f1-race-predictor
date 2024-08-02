@@ -435,3 +435,7 @@ All notable changes are documented here.
 - test: add regression test for model prediction stability
 
 
+### 2023-02-05
+- feat: add synthetic data generator for demo and CI mode
+
+
