@@ -439,3 +439,7 @@ All notable changes are documented here.
 - feat: add synthetic data generator for demo and CI mode
 
 
+### 2023-02-15
+- feat: add driver championship points before race feature
+
+
