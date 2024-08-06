@@ -443,3 +443,7 @@ All notable changes are documented here.
 - feat: add driver championship points before race feature
 
 
+### 2023-02-16
+- feat: implement pit stop count as strategy proxy feature
+
+
