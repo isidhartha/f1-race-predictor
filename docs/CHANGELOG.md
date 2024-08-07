@@ -447,3 +447,7 @@ All notable changes are documented here.
 - feat: implement pit stop count as strategy proxy feature
 
 
+### 2023-02-23
+- feat: add example prediction with sample input dictionary
+
+
