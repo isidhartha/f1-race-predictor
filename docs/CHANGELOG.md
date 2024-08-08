@@ -451,3 +451,7 @@ All notable changes are documented here.
 - feat: add example prediction with sample input dictionary
 
 
+### 2023-03-02
+- refactor: rename feature columns for clarity
+
+
