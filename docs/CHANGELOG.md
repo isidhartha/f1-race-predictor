@@ -459,3 +459,7 @@ All notable changes are documented here.
 - fix: fix random state parameter for full reproducibility
 
 
+### 2023-03-02
+- test: add CLI argument parsing tests
+
+
