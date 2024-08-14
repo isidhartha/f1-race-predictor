@@ -463,3 +463,7 @@ All notable changes are documented here.
 - test: add CLI argument parsing tests
 
 
+### 2023-03-02
+- style: normalise imports with isort
+
+
