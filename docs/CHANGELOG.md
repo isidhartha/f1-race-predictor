@@ -467,3 +467,7 @@ All notable changes are documented here.
 - style: normalise imports with isort
 
 
+### 2023-03-03
+- fix: resolve label encoding issue for unseen circuit IDs
+
+
