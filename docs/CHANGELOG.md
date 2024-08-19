@@ -471,3 +471,7 @@ All notable changes are documented here.
 - fix: resolve label encoding issue for unseen circuit IDs
 
 
+### 2023-03-09
+- chore: add .gitignore for model and data files
+
+
