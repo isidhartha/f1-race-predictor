@@ -475,3 +475,7 @@ All notable changes are documented here.
 - chore: add .gitignore for model and data files
 
 
+### 2023-03-10
+- chore: pin scikit-learn to 1.3 for API stability
+
+
