@@ -479,3 +479,7 @@ All notable changes are documented here.
 - chore: pin scikit-learn to 1.3 for API stability
 
 
+### 2023-03-15
+- chore: update requirements.txt with pinned versions
+
+
