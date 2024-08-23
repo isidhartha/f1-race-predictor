@@ -483,3 +483,7 @@ All notable changes are documented here.
 - chore: update requirements.txt with pinned versions
 
 
+### 2023-03-16
+- style: format with black
+
+
