@@ -487,3 +487,7 @@ All notable changes are documented here.
 - style: format with black
 
 
+### 2023-03-23
+- feat: add training progress logging to stdout
+
+
