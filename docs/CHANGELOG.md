@@ -495,3 +495,7 @@ All notable changes are documented here.
 - feat: implement constructor performance points feature
 
 
+### 2023-03-30
+- feat: add model persistence with joblib serialisation
+
+
