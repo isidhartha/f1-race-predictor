@@ -503,3 +503,7 @@ All notable changes are documented here.
 - feat: add feature importance output after training
 
 
+### 2023-03-31
+- refactor: extract evaluation metrics into helper function
+
+
