@@ -511,3 +511,7 @@ All notable changes are documented here.
 - feat: add example prediction with sample input dictionary
 
 
+### 2023-04-05
+- test: add regression test for model prediction stability
+
+
