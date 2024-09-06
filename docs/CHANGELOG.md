@@ -515,3 +515,7 @@ All notable changes are documented here.
 - test: add regression test for model prediction stability
 
 
+### 2023-04-13
+- feat: implement batch prediction from CSV file input
+
+
