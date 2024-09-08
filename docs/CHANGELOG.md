@@ -519,3 +519,7 @@ All notable changes are documented here.
 - feat: implement batch prediction from CSV file input
 
 
+### 2023-04-13
+- fix: fix random state parameter for full reproducibility
+
+
