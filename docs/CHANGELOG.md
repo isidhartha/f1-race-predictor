@@ -523,3 +523,7 @@ All notable changes are documented here.
 - fix: fix random state parameter for full reproducibility
 
 
+### 2023-04-16
+- feat: add safety car laps count as race variable
+
+
