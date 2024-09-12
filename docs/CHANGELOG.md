@@ -531,3 +531,7 @@ All notable changes are documented here.
 - test: add unit tests for feature engineering correctness
 
 
+### 2023-04-25
+- feat: add model persistence with joblib serialisation
+
+
