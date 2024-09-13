@@ -535,3 +535,7 @@ All notable changes are documented here.
 - feat: add model persistence with joblib serialisation
 
 
+### 2023-05-01
+- refactor: consolidate model save and load logic
+
+
