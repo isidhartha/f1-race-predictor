@@ -539,3 +539,7 @@ All notable changes are documented here.
 - refactor: consolidate model save and load logic
 
 
+### 2023-05-03
+- feat: add training CLI flag via argparse
+
+
