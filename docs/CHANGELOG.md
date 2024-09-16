@@ -543,3 +543,7 @@ All notable changes are documented here.
 - feat: add training CLI flag via argparse
 
 
+### 2023-05-03
+- docs: add model training guide to README setup section
+
+
