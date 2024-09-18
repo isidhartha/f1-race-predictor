@@ -547,3 +547,7 @@ All notable changes are documented here.
 - docs: add model training guide to README setup section
 
 
+### 2023-05-04
+- docs: add model selection rationale to architecture.md
+
+
