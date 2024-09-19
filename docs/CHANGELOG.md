@@ -551,3 +551,7 @@ All notable changes are documented here.
 - docs: add model selection rationale to architecture.md
 
 
+### 2023-05-08
+- docs: document all eight feature definitions and rationale
+
+
