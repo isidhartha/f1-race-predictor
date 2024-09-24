@@ -555,3 +555,7 @@ All notable changes are documented here.
 - docs: document all eight feature definitions and rationale
 
 
+### 2023-05-24
+- style: format with black
+
+
