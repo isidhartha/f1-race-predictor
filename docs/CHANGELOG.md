@@ -559,3 +559,7 @@ All notable changes are documented here.
 - style: format with black
 
 
+### 2023-05-25
+- feat: implement qualifying time feature in milliseconds
+
+
