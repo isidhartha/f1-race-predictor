@@ -563,3 +563,7 @@ All notable changes are documented here.
 - feat: implement qualifying time feature in milliseconds
 
 
+### 2023-05-29
+- docs: add model selection rationale to architecture.md
+
+
