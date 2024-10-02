@@ -571,3 +571,7 @@ All notable changes are documented here.
 - chore: add .gitignore for model and data files
 
 
+### 2023-06-02
+- feat: implement pit stop count as strategy proxy feature
+
+
