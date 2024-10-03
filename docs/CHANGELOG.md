@@ -575,3 +575,7 @@ All notable changes are documented here.
 - feat: implement pit stop count as strategy proxy feature
 
 
+### 2023-06-02
+- perf: cache fitted label encoder to avoid re-fitting
+
+
