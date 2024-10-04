@@ -579,3 +579,7 @@ All notable changes are documented here.
 - perf: cache fitted label encoder to avoid re-fitting
 
 
+### 2023-06-08
+- docs: document synthetic data schema and generation logic
+
+
