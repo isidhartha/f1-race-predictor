@@ -583,3 +583,7 @@ All notable changes are documented here.
 - docs: document synthetic data schema and generation logic
 
 
+### 2023-06-14
+- refactor: rename feature columns for clarity
+
+
