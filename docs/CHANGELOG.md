@@ -587,3 +587,7 @@ All notable changes are documented here.
 - refactor: rename feature columns for clarity
 
 
+### 2023-06-15
+- chore: add .gitignore for model and data files
+
+
