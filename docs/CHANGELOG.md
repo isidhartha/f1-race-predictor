@@ -591,3 +591,7 @@ All notable changes are documented here.
 - chore: add .gitignore for model and data files
 
 
+### 2023-06-15
+- feat: add training progress logging to stdout
+
+
