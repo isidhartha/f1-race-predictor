@@ -595,3 +595,7 @@ All notable changes are documented here.
 - feat: add training progress logging to stdout
 
 
+### 2023-06-22
+- refactor: rename feature columns for clarity
+
+
