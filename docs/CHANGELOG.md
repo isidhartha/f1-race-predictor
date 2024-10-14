@@ -599,3 +599,7 @@ All notable changes are documented here.
 - refactor: rename feature columns for clarity
 
 
+### 2023-06-23
+- feat: add driver championship points before race feature
+
+
