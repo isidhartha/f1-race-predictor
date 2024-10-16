@@ -603,3 +603,7 @@ All notable changes are documented here.
 - feat: add driver championship points before race feature
 
 
+### 2023-06-24
+- docs: add model selection rationale to architecture.md
+
+
