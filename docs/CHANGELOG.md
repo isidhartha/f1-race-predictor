@@ -607,3 +607,7 @@ All notable changes are documented here.
 - docs: add model selection rationale to architecture.md
 
 
+### 2023-06-30
+- refactor: extract evaluation metrics into helper function
+
+
