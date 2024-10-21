@@ -611,3 +611,7 @@ All notable changes are documented here.
 - refactor: extract evaluation metrics into helper function
 
 
+### 2023-07-10
+- chore: add pre-commit hooks for black and ruff
+
+
