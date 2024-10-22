@@ -615,3 +615,7 @@ All notable changes are documented here.
 - chore: add pre-commit hooks for black and ruff
 
 
+### 2023-07-14
+- feat: implement hyperparameter configuration via constants
+
+
