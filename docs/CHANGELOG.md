@@ -619,3 +619,7 @@ All notable changes are documented here.
 - feat: implement hyperparameter configuration via constants
 
 
+### 2023-07-21
+- feat: add training progress logging to stdout
+
+
