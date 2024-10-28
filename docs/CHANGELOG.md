@@ -627,3 +627,7 @@ All notable changes are documented here.
 - feat: implement hyperparameter configuration via constants
 
 
+### 2023-08-02
+- test: add model save and reload round-trip test
+
+
