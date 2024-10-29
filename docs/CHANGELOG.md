@@ -631,3 +631,7 @@ All notable changes are documented here.
 - test: add model save and reload round-trip test
 
 
+### 2023-08-15
+- refactor: separate synthetic data into data_utils module
+
+
