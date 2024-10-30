@@ -635,3 +635,7 @@ All notable changes are documented here.
 - refactor: separate synthetic data into data_utils module
 
 
+### 2023-08-16
+- test: add regression test for model prediction stability
+
+
