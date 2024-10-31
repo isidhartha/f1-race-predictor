@@ -639,3 +639,7 @@ All notable changes are documented here.
 - test: add regression test for model prediction stability
 
 
+### 2023-08-21
+- chore: pin scikit-learn to 1.3 for API stability
+
+
