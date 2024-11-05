@@ -647,3 +647,7 @@ All notable changes are documented here.
 - style: fix ruff violations in predictor module
 
 
+### 2023-08-22
+- feat: add model persistence with joblib serialisation
+
+
