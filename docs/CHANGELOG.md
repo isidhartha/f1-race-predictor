@@ -651,3 +651,7 @@ All notable changes are documented here.
 - feat: add model persistence with joblib serialisation
 
 
+### 2023-08-25
+- fix: correct feature ordering in prediction input dict
+
+
