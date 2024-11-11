@@ -659,3 +659,7 @@ All notable changes are documented here.
 - fix: handle missing values in qualifying time column
 
 
+### 2023-09-07
+- feat: add driver championship points before race feature
+
+
