@@ -663,3 +663,7 @@ All notable changes are documented here.
 - feat: add driver championship points before race feature
 
 
+### 2023-09-07
+- feat: add grid position as primary input feature
+
+
