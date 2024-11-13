@@ -667,3 +667,7 @@ All notable changes are documented here.
 - feat: add grid position as primary input feature
 
 
+### 2023-09-12
+- test: add unit tests for feature engineering correctness
+
+
