@@ -675,3 +675,7 @@ All notable changes are documented here.
 - docs: document prediction input dict schema
 
 
+### 2023-09-18
+- test: add regression test for model prediction stability
+
+
