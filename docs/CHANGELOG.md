@@ -679,3 +679,7 @@ All notable changes are documented here.
 - test: add regression test for model prediction stability
 
 
+### 2023-09-21
+- feat: add circuit-specific encoding as categorical feature
+
+
