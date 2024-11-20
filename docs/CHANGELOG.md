@@ -683,3 +683,7 @@ All notable changes are documented here.
 - feat: add circuit-specific encoding as categorical feature
 
 
+### 2023-09-22
+- fix: fix random state parameter for full reproducibility
+
+
