@@ -687,3 +687,7 @@ All notable changes are documented here.
 - fix: fix random state parameter for full reproducibility
 
 
+### 2023-09-25
+- feat: add synthetic data generator for demo and CI mode
+
+
