@@ -691,3 +691,7 @@ All notable changes are documented here.
 - feat: add synthetic data generator for demo and CI mode
 
 
+### 2023-09-26
+- chore: add .gitignore for model and data files
+
+
