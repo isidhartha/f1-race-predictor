@@ -699,3 +699,7 @@ All notable changes are documented here.
 - docs: document prediction input dict schema
 
 
+### 2023-09-30
+- test: add unit tests for feature engineering correctness
+
+
