@@ -703,3 +703,7 @@ All notable changes are documented here.
 - test: add unit tests for feature engineering correctness
 
 
+### 2023-10-02
+- feat: add safety car laps count as race variable
+
+
