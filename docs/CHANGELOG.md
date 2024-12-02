@@ -707,3 +707,7 @@ All notable changes are documented here.
 - feat: add safety car laps count as race variable
 
 
+### 2023-10-02
+- feat: add synthetic data generator for demo and CI mode
+
+
