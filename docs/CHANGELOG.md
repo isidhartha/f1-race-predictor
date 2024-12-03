@@ -711,3 +711,7 @@ All notable changes are documented here.
 - feat: add synthetic data generator for demo and CI mode
 
 
+### 2023-10-03
+- feat: implement classification report with per-class metrics
+
+
