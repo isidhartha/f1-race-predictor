@@ -715,3 +715,7 @@ All notable changes are documented here.
 - feat: implement classification report with per-class metrics
 
 
+### 2023-10-05
+- docs: add model training guide to README setup section
+
+
