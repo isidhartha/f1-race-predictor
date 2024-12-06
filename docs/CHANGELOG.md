@@ -719,3 +719,7 @@ All notable changes are documented here.
 - docs: add model training guide to README setup section
 
 
+### 2023-10-07
+- fix: fix safety car lap count parsing from raw data
+
+
