@@ -723,3 +723,7 @@ All notable changes are documented here.
 - fix: fix safety car lap count parsing from raw data
 
 
+### 2023-10-12
+- fix: handle edge case with zero pit stops in feature
+
+
