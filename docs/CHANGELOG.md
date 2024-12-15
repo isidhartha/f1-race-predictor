@@ -727,3 +727,7 @@ All notable changes are documented here.
 - fix: handle edge case with zero pit stops in feature
 
 
+### 2023-10-14
+- refactor: separate synthetic data into data_utils module
+
+
