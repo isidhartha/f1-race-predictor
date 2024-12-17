@@ -731,3 +731,7 @@ All notable changes are documented here.
 - refactor: separate synthetic data into data_utils module
 
 
+### 2023-10-19
+- docs: document all eight feature definitions and rationale
+
+
