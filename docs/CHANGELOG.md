@@ -739,3 +739,7 @@ All notable changes are documented here.
 - style: format with black
 
 
+### 2023-10-27
+- feat: implement 80/20 train-test split with random seed
+
+
