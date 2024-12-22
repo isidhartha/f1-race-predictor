@@ -743,3 +743,7 @@ All notable changes are documented here.
 - feat: implement 80/20 train-test split with random seed
 
 
+### 2023-10-29
+- refactor: extract feature engineering into sklearn pipeline
+
+
