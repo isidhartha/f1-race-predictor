@@ -747,3 +747,7 @@ All notable changes are documented here.
 - refactor: extract feature engineering into sklearn pipeline
 
 
+### 2023-10-30
+- chore: add .gitignore for model and data files
+
+
