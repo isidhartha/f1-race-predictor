@@ -751,3 +751,7 @@ All notable changes are documented here.
 - chore: add .gitignore for model and data files
 
 
+### 2023-11-02
+- docs: document prediction input dict schema
+
+
