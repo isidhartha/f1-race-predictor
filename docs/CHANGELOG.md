@@ -755,3 +755,7 @@ All notable changes are documented here.
 - docs: document prediction input dict schema
 
 
+### 2023-11-06
+- feat: implement pit stop count as strategy proxy feature
+
+
