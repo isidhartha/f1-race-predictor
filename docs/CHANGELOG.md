@@ -759,3 +759,7 @@ All notable changes are documented here.
 - feat: implement pit stop count as strategy proxy feature
 
 
+### 2023-11-09
+- docs: add model training guide to README setup section
+
+
