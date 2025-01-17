@@ -763,3 +763,7 @@ All notable changes are documented here.
 - docs: add model training guide to README setup section
 
 
+### 2023-11-13
+- feat: add example prediction with sample input dictionary
+
+
