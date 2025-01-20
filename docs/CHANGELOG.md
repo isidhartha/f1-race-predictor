@@ -767,3 +767,7 @@ All notable changes are documented here.
 - feat: add example prediction with sample input dictionary
 
 
+### 2023-11-14
+- feat: add feature importance output after training
+
+
