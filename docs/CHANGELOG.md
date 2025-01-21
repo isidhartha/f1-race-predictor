@@ -771,3 +771,7 @@ All notable changes are documented here.
 - feat: add feature importance output after training
 
 
+### 2023-11-16
+- fix: handle corrupt joblib file with clear error message
+
+
