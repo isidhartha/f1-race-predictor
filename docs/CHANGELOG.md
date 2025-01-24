@@ -779,3 +779,7 @@ All notable changes are documented here.
 - docs: document synthetic data schema and generation logic
 
 
+### 2023-11-22
+- feat: implement qualifying time feature in milliseconds
+
+
