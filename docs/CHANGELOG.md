@@ -787,3 +787,7 @@ All notable changes are documented here.
 - docs: document prediction input dict schema
 
 
+### 2023-11-23
+- feat: implement qualifying time feature in milliseconds
+
+
