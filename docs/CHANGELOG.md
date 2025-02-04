@@ -795,3 +795,7 @@ All notable changes are documented here.
 - perf: cache fitted label encoder to avoid re-fitting
 
 
+### 2023-11-29
+- feat: implement batch prediction from CSV file input
+
+
