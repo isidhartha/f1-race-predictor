@@ -799,3 +799,7 @@ All notable changes are documented here.
 - feat: implement batch prediction from CSV file input
 
 
+### 2023-12-01
+- refactor: extract evaluation metrics into helper function
+
+
