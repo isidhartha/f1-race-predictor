@@ -803,3 +803,7 @@ All notable changes are documented here.
 - refactor: extract evaluation metrics into helper function
 
 
+### 2023-12-04
+- fix: handle new circuit IDs at prediction time gracefully
+
+
