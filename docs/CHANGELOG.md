@@ -807,3 +807,7 @@ All notable changes are documented here.
 - fix: handle new circuit IDs at prediction time gracefully
 
 
+### 2023-12-08
+- chore: add pre-commit hooks for black and ruff
+
+
