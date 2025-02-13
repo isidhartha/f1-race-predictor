@@ -811,3 +811,7 @@ All notable changes are documented here.
 - chore: add pre-commit hooks for black and ruff
 
 
+### 2023-12-09
+- feat: implement weather condition code as ordinal feature
+
+
