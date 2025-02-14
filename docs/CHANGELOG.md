@@ -815,3 +815,7 @@ All notable changes are documented here.
 - feat: implement weather condition code as ordinal feature
 
 
+### 2023-12-12
+- test: add regression test for model prediction stability
+
+
