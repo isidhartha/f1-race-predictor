@@ -819,3 +819,7 @@ All notable changes are documented here.
 - test: add regression test for model prediction stability
 
 
+### 2023-12-13
+- fix: handle missing values in qualifying time column
+
+
