@@ -823,3 +823,7 @@ All notable changes are documented here.
 - fix: handle missing values in qualifying time column
 
 
+### 2023-12-15
+- test: add model save and reload round-trip test
+
+
