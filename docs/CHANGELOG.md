@@ -831,3 +831,7 @@ All notable changes are documented here.
 - feat: implement batch prediction from CSV file input
 
 
+### 2023-12-28
+- chore: update requirements.txt with pinned versions
+
+
