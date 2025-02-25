@@ -835,3 +835,7 @@ All notable changes are documented here.
 - chore: update requirements.txt with pinned versions
 
 
+### 2023-12-29
+- chore: add .gitignore for model and data files
+
+
