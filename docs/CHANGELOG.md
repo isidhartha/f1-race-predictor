@@ -839,3 +839,7 @@ All notable changes are documented here.
 - chore: add .gitignore for model and data files
 
 
+### 2023-12-29
+- docs: add model training guide to README setup section
+
+
