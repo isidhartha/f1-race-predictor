@@ -855,3 +855,7 @@ All notable changes are documented here.
 - docs: document prediction input dict schema
 
 
+### 2024-01-11
+- refactor: rename feature columns for clarity
+
+
