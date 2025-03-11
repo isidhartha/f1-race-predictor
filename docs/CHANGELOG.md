@@ -859,3 +859,7 @@ All notable changes are documented here.
 - refactor: rename feature columns for clarity
 
 
+### 2024-01-11
+- perf: use joblib parallel backend for cross-validation
+
+
