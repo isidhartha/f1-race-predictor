@@ -863,3 +863,7 @@ All notable changes are documented here.
 - perf: use joblib parallel backend for cross-validation
 
 
+### 2024-01-19
+- feat: implement pit stop count as strategy proxy feature
+
+
