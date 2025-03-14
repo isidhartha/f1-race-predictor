@@ -867,3 +867,7 @@ All notable changes are documented here.
 - feat: implement pit stop count as strategy proxy feature
 
 
+### 2024-01-24
+- refactor: extract feature engineering into sklearn pipeline
+
+
