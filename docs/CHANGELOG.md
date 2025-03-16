@@ -871,3 +871,7 @@ All notable changes are documented here.
 - refactor: extract feature engineering into sklearn pipeline
 
 
+### 2024-01-30
+- refactor: separate synthetic data into data_utils module
+
+
