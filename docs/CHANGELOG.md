@@ -875,3 +875,7 @@ All notable changes are documented here.
 - refactor: separate synthetic data into data_utils module
 
 
+### 2024-01-31
+- feat: implement weather condition code as ordinal feature
+
+
