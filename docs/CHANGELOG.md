@@ -879,3 +879,7 @@ All notable changes are documented here.
 - feat: implement weather condition code as ordinal feature
 
 
+### 2024-02-02
+- fix: handle edge case with zero pit stops in feature
+
+
