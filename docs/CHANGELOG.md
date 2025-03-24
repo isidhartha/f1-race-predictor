@@ -887,3 +887,7 @@ All notable changes are documented here.
 - test: add model save and reload round-trip test
 
 
+### 2024-02-13
+- fix: resolve label encoding issue for unseen circuit IDs
+
+
