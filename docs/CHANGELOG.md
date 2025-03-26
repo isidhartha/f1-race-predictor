@@ -891,3 +891,7 @@ All notable changes are documented here.
 - fix: resolve label encoding issue for unseen circuit IDs
 
 
+### 2024-02-18
+- feat: implement weather condition code as ordinal feature
+
+
