@@ -895,3 +895,7 @@ All notable changes are documented here.
 - feat: implement weather condition code as ordinal feature
 
 
+### 2024-02-21
+- chore: pin scikit-learn to 1.3 for API stability
+
+
