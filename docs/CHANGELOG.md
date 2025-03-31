@@ -903,3 +903,7 @@ All notable changes are documented here.
 - feat: add safety car laps count as race variable
 
 
+### 2024-03-01
+- feat: implement prediction CLI flag for inference
+
+
