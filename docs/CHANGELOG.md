@@ -907,3 +907,7 @@ All notable changes are documented here.
 - feat: implement prediction CLI flag for inference
 
 
+### 2024-03-05
+- refactor: separate synthetic data into data_utils module
+
+
