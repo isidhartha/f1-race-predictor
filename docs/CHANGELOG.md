@@ -911,3 +911,7 @@ All notable changes are documented here.
 - refactor: separate synthetic data into data_utils module
 
 
+### 2024-03-05
+- fix: resolve joblib version compatibility with sklearn
+
+
