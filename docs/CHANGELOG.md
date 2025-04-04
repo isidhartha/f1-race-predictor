@@ -915,3 +915,7 @@ All notable changes are documented here.
 - fix: resolve joblib version compatibility with sklearn
 
 
+### 2024-03-07
+- feat: implement qualifying time feature in milliseconds
+
+
