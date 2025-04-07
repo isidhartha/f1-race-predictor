@@ -919,3 +919,7 @@ All notable changes are documented here.
 - feat: implement qualifying time feature in milliseconds
 
 
+### 2024-03-08
+- test: add CLI argument parsing tests
+
+
