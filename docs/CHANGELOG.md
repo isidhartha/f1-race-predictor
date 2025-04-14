@@ -923,3 +923,7 @@ All notable changes are documented here.
 - test: add CLI argument parsing tests
 
 
+### 2024-03-12
+- test: add model save and reload round-trip test
+
+
