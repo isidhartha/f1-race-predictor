@@ -927,3 +927,7 @@ All notable changes are documented here.
 - test: add model save and reload round-trip test
 
 
+### 2024-03-14
+- fix: handle edge case with zero pit stops in feature
+
+
