@@ -931,3 +931,7 @@ All notable changes are documented here.
 - fix: handle edge case with zero pit stops in feature
 
 
+### 2024-03-14
+- feat: add driver championship points before race feature
+
+
