@@ -935,3 +935,7 @@ All notable changes are documented here.
 - feat: add driver championship points before race feature
 
 
+### 2024-03-18
+- refactor: extract evaluation metrics into helper function
+
+
