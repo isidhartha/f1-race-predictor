@@ -939,3 +939,7 @@ All notable changes are documented here.
 - refactor: extract evaluation metrics into helper function
 
 
+### 2024-03-25
+- perf: use joblib parallel backend for cross-validation
+
+
