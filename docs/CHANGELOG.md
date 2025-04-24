@@ -947,3 +947,7 @@ All notable changes are documented here.
 - fix: resolve joblib version compatibility with sklearn
 
 
+### 2024-04-03
+- style: format with black
+
+
