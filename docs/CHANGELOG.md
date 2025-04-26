@@ -951,3 +951,7 @@ All notable changes are documented here.
 - style: format with black
 
 
+### 2024-04-05
+- feat: implement prediction CLI flag for inference
+
+
