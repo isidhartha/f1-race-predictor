@@ -955,3 +955,7 @@ All notable changes are documented here.
 - feat: implement prediction CLI flag for inference
 
 
+### 2024-04-10
+- fix: fix random state parameter for full reproducibility
+
+
