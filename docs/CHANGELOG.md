@@ -963,3 +963,7 @@ All notable changes are documented here.
 - style: normalise imports with isort
 
 
+### 2024-04-13
+- test: add model save and reload round-trip test
+
+
