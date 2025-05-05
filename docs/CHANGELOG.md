@@ -967,3 +967,7 @@ All notable changes are documented here.
 - test: add model save and reload round-trip test
 
 
+### 2024-04-14
+- feat: add training CLI flag via argparse
+
+
