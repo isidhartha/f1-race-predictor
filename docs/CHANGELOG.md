@@ -971,3 +971,7 @@ All notable changes are documented here.
 - feat: add training CLI flag via argparse
 
 
+### 2024-04-19
+- chore: update requirements.txt with pinned versions
+
+
