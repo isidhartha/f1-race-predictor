@@ -975,3 +975,7 @@ All notable changes are documented here.
 - chore: update requirements.txt with pinned versions
 
 
+### 2024-04-22
+- perf: use joblib parallel backend for cross-validation
+
+
