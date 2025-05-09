@@ -979,3 +979,7 @@ All notable changes are documented here.
 - perf: use joblib parallel backend for cross-validation
 
 
+### 2024-04-29
+- docs: document all eight feature definitions and rationale
+
+
