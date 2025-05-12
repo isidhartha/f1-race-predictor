@@ -983,3 +983,7 @@ All notable changes are documented here.
 - docs: document all eight feature definitions and rationale
 
 
+### 2024-04-30
+- refactor: rename feature columns for clarity
+
+
