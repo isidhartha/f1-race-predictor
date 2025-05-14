@@ -987,3 +987,7 @@ All notable changes are documented here.
 - refactor: rename feature columns for clarity
 
 
+### 2024-05-10
+- feat: implement qualifying time feature in milliseconds
+
+
