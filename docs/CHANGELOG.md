@@ -991,3 +991,7 @@ All notable changes are documented here.
 - feat: implement qualifying time feature in milliseconds
 
 
+### 2024-05-15
+- feat: implement weather condition code as ordinal feature
+
+
