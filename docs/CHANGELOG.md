@@ -995,3 +995,7 @@ All notable changes are documented here.
 - feat: implement weather condition code as ordinal feature
 
 
+### 2024-05-21
+- feat: implement 80/20 train-test split with random seed
+
+
