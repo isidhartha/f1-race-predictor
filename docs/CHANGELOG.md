@@ -999,3 +999,7 @@ All notable changes are documented here.
 - feat: implement 80/20 train-test split with random seed
 
 
+### 2024-05-25
+- fix: correct model save path creation when models dir missing
+
+
