@@ -1003,3 +1003,7 @@ All notable changes are documented here.
 - fix: correct model save path creation when models dir missing
 
 
+### 2024-06-05
+- fix: handle missing values in qualifying time column
+
+
