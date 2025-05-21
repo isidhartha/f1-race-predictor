@@ -1007,3 +1007,7 @@ All notable changes are documented here.
 - fix: handle missing values in qualifying time column
 
 
+### 2024-06-07
+- feat: add circuit-specific encoding as categorical feature
+
+
