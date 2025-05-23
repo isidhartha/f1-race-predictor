@@ -1011,3 +1011,7 @@ All notable changes are documented here.
 - feat: add circuit-specific encoding as categorical feature
 
 
+### 2024-06-10
+- docs: document all eight feature definitions and rationale
+
+
