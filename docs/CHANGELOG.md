@@ -1019,3 +1019,7 @@ All notable changes are documented here.
 - perf: use joblib parallel backend for cross-validation
 
 
+### 2024-06-15
+- refactor: extract feature engineering into sklearn pipeline
+
+
