@@ -1023,3 +1023,7 @@ All notable changes are documented here.
 - refactor: extract feature engineering into sklearn pipeline
 
 
+### 2024-06-20
+- docs: update architecture.md with ML pipeline diagram
+
+
