@@ -1027,3 +1027,7 @@ All notable changes are documented here.
 - docs: update architecture.md with ML pipeline diagram
 
 
+### 2024-06-27
+- feat: implement GradientBoostingClassifier for position prediction
+
+
