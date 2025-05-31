@@ -1031,3 +1031,7 @@ All notable changes are documented here.
 - feat: implement GradientBoostingClassifier for position prediction
 
 
+### 2024-06-27
+- feat: implement pit stop count as strategy proxy feature
+
+
