@@ -1035,3 +1035,7 @@ All notable changes are documented here.
 - feat: implement pit stop count as strategy proxy feature
 
 
+### 2024-07-08
+- fix: fix random state parameter for full reproducibility
+
+
