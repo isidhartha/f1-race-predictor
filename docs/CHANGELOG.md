@@ -1039,3 +1039,7 @@ All notable changes are documented here.
 - fix: fix random state parameter for full reproducibility
 
 
+### 2024-07-12
+- perf: cache fitted label encoder to avoid re-fitting
+
+
