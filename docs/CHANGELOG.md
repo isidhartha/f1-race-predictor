@@ -1043,3 +1043,7 @@ All notable changes are documented here.
 - perf: cache fitted label encoder to avoid re-fitting
 
 
+### 2024-07-12
+- chore: pin scikit-learn to 1.3 for API stability
+
+
