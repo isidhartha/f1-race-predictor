@@ -1047,3 +1047,7 @@ All notable changes are documented here.
 - chore: pin scikit-learn to 1.3 for API stability
 
 
+### 2024-07-21
+- fix: handle missing values in qualifying time column
+
+
