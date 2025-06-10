@@ -1051,3 +1051,7 @@ All notable changes are documented here.
 - fix: handle missing values in qualifying time column
 
 
+### 2024-07-21
+- test: add CLI argument parsing tests
+
+
