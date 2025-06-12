@@ -1059,3 +1059,7 @@ All notable changes are documented here.
 - feat: add example prediction with sample input dictionary
 
 
+### 2024-07-25
+- feat: implement prediction CLI flag for inference
+
+
