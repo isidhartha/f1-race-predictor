@@ -1075,3 +1075,7 @@ All notable changes are documented here.
 - feat: add example prediction with sample input dictionary
 
 
+### 2024-08-05
+- feat: implement batch prediction from CSV file input
+
+
