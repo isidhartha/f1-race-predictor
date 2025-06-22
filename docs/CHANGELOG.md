@@ -1079,3 +1079,7 @@ All notable changes are documented here.
 - feat: implement batch prediction from CSV file input
 
 
+### 2024-08-09
+- perf: use joblib parallel backend for cross-validation
+
+
