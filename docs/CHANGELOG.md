@@ -1083,3 +1083,7 @@ All notable changes are documented here.
 - perf: use joblib parallel backend for cross-validation
 
 
+### 2024-08-12
+- chore: add .gitignore for model and data files
+
+
