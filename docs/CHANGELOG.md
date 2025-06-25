@@ -1087,3 +1087,7 @@ All notable changes are documented here.
 - chore: add .gitignore for model and data files
 
 
+### 2024-08-12
+- feat: implement GradientBoostingClassifier for position prediction
+
+
