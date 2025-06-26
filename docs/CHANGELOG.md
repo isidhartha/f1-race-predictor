@@ -1091,3 +1091,7 @@ All notable changes are documented here.
 - feat: implement GradientBoostingClassifier for position prediction
 
 
+### 2024-08-14
+- feat: add training CLI flag via argparse
+
+
