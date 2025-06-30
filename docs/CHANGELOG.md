@@ -1099,3 +1099,7 @@ All notable changes are documented here.
 - test: add unit tests for feature engineering correctness
 
 
+### 2024-08-16
+- refactor: extract feature engineering into sklearn pipeline
+
+
