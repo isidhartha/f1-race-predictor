@@ -1107,3 +1107,7 @@ All notable changes are documented here.
 - test: add synthetic data generator shape and type tests
 
 
+### 2024-09-05
+- feat: add driver championship points before race feature
+
+
