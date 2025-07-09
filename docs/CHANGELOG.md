@@ -1119,3 +1119,7 @@ All notable changes are documented here.
 - feat: implement 80/20 train-test split with random seed
 
 
+### 2024-10-02
+- feat: add grid position as primary input feature
+
+
