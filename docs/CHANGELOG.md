@@ -1123,3 +1123,7 @@ All notable changes are documented here.
 - feat: add grid position as primary input feature
 
 
+### 2024-10-03
+- refactor: rename feature columns for clarity
+
+
