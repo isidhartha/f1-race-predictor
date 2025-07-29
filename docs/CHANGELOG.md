@@ -1127,3 +1127,7 @@ All notable changes are documented here.
 - refactor: rename feature columns for clarity
 
 
+### 2024-10-07
+- feat: implement GradientBoostingClassifier for position prediction
+
+
