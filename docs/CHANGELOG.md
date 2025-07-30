@@ -1131,3 +1131,7 @@ All notable changes are documented here.
 - feat: implement GradientBoostingClassifier for position prediction
 
 
+### 2024-10-08
+- refactor: extract feature engineering into sklearn pipeline
+
+
