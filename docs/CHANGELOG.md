@@ -1135,3 +1135,7 @@ All notable changes are documented here.
 - refactor: extract feature engineering into sklearn pipeline
 
 
+### 2024-10-08
+- style: format with black
+
+
