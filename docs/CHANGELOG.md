@@ -1139,3 +1139,7 @@ All notable changes are documented here.
 - style: format with black
 
 
+### 2024-10-09
+- fix: handle new circuit IDs at prediction time gracefully
+
+
