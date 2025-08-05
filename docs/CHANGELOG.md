@@ -1143,3 +1143,7 @@ All notable changes are documented here.
 - fix: handle new circuit IDs at prediction time gracefully
 
 
+### 2024-10-09
+- refactor: extract evaluation metrics into helper function
+
+
