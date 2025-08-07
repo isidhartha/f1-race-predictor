@@ -1151,3 +1151,7 @@ All notable changes are documented here.
 - test: add model save and reload round-trip test
 
 
+### 2024-10-12
+- fix: correct model save path creation when models dir missing
+
+
