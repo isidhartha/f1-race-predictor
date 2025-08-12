@@ -1159,3 +1159,7 @@ All notable changes are documented here.
 - style: format with black
 
 
+### 2024-10-20
+- fix: correct feature ordering in prediction input dict
+
+
