@@ -1163,3 +1163,7 @@ All notable changes are documented here.
 - fix: correct feature ordering in prediction input dict
 
 
+### 2024-10-22
+- fix: correct model save path creation when models dir missing
+
+
