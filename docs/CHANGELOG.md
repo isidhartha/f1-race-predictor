@@ -1167,3 +1167,7 @@ All notable changes are documented here.
 - fix: correct model save path creation when models dir missing
 
 
+### 2024-10-24
+- style: normalise imports with isort
+
+
