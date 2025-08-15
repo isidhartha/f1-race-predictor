@@ -1171,3 +1171,7 @@ All notable changes are documented here.
 - style: normalise imports with isort
 
 
+### 2024-10-25
+- test: add regression test for model prediction stability
+
+
