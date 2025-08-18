@@ -1175,3 +1175,7 @@ All notable changes are documented here.
 - test: add regression test for model prediction stability
 
 
+### 2024-10-26
+- feat: implement hyperparameter configuration via constants
+
+
