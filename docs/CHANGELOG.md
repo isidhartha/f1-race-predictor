@@ -1179,3 +1179,7 @@ All notable changes are documented here.
 - feat: implement hyperparameter configuration via constants
 
 
+### 2024-10-30
+- fix: handle corrupt joblib file with clear error message
+
+
