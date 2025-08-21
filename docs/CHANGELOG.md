@@ -1183,3 +1183,7 @@ All notable changes are documented here.
 - fix: handle corrupt joblib file with clear error message
 
 
+### 2024-10-31
+- test: add model save and reload round-trip test
+
+
