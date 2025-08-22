@@ -1187,3 +1187,7 @@ All notable changes are documented here.
 - test: add model save and reload round-trip test
 
 
+### 2024-10-31
+- fix: handle missing values in qualifying time column
+
+
