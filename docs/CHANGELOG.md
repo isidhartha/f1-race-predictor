@@ -1191,3 +1191,7 @@ All notable changes are documented here.
 - fix: handle missing values in qualifying time column
 
 
+### 2024-11-01
+- feat: implement GradientBoostingClassifier for position prediction
+
+
