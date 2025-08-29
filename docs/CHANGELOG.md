@@ -1203,3 +1203,7 @@ All notable changes are documented here.
 - style: fix ruff violations in predictor module
 
 
+### 2024-11-09
+- docs: update architecture.md with ML pipeline diagram
+
+
