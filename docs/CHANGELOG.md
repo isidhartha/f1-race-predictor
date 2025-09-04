@@ -1215,3 +1215,7 @@ All notable changes are documented here.
 - docs: add model selection rationale to architecture.md
 
 
+### 2024-11-15
+- docs: update architecture.md with ML pipeline diagram
+
+
