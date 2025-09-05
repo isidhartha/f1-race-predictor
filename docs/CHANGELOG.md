@@ -1219,3 +1219,7 @@ All notable changes are documented here.
 - docs: update architecture.md with ML pipeline diagram
 
 
+### 2024-11-28
+- feat: implement prediction CLI flag for inference
+
+
