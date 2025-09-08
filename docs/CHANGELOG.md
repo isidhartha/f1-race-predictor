@@ -1223,3 +1223,7 @@ All notable changes are documented here.
 - feat: implement prediction CLI flag for inference
 
 
+### 2024-11-30
+- test: add CLI argument parsing tests
+
+
