@@ -1227,3 +1227,7 @@ All notable changes are documented here.
 - test: add CLI argument parsing tests
 
 
+### 2024-12-06
+- docs: document all eight feature definitions and rationale
+
+
