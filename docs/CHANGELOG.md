@@ -1235,3 +1235,7 @@ All notable changes are documented here.
 - refactor: extract evaluation metrics into helper function
 
 
+### 2024-12-20
+- docs: document all eight feature definitions and rationale
+
+
