@@ -1239,3 +1239,7 @@ All notable changes are documented here.
 - docs: document all eight feature definitions and rationale
 
 
+### 2024-12-21
+- fix: correct feature ordering in prediction input dict
+
+
