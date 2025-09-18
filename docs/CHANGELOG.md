@@ -1247,3 +1247,7 @@ All notable changes are documented here.
 - chore: add pre-commit hooks for black and ruff
 
 
+### 2024-12-26
+- test: add model save and reload round-trip test
+
+
