@@ -1255,3 +1255,7 @@ All notable changes are documented here.
 - refactor: move model path to environment variable
 
 
+### 2025-01-14
+- feat: add training progress logging to stdout
+
+
