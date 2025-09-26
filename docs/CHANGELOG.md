@@ -1267,3 +1267,7 @@ All notable changes are documented here.
 - feat: implement batch prediction from CSV file input
 
 
+### 2025-01-30
+- chore: add pre-commit hooks for black and ruff
+
+
