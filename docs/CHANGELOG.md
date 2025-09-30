@@ -1271,3 +1271,7 @@ All notable changes are documented here.
 - chore: add pre-commit hooks for black and ruff
 
 
+### 2025-02-05
+- style: normalise imports with isort
+
+
