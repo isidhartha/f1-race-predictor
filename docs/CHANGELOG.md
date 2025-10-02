@@ -1279,3 +1279,7 @@ All notable changes are documented here.
 - test: add unit tests for feature engineering correctness
 
 
+### 2025-02-11
+- docs: document all eight feature definitions and rationale
+
+
