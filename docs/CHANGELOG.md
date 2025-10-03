@@ -1283,3 +1283,7 @@ All notable changes are documented here.
 - docs: document all eight feature definitions and rationale
 
 
+### 2025-02-15
+- feat: implement constructor performance points feature
+
+
