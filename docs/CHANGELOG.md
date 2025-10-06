@@ -1287,3 +1287,7 @@ All notable changes are documented here.
 - feat: implement constructor performance points feature
 
 
+### 2025-02-16
+- fix: correct model save path creation when models dir missing
+
+
