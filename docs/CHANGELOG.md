@@ -1291,3 +1291,7 @@ All notable changes are documented here.
 - fix: correct model save path creation when models dir missing
 
 
+### 2025-02-17
+- refactor: extract evaluation metrics into helper function
+
+
