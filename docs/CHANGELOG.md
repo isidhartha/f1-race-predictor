@@ -1295,3 +1295,7 @@ All notable changes are documented here.
 - refactor: extract evaluation metrics into helper function
 
 
+### 2025-02-17
+- feat: implement classification report with per-class metrics
+
+
