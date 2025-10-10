@@ -1299,3 +1299,7 @@ All notable changes are documented here.
 - feat: implement classification report with per-class metrics
 
 
+### 2025-02-19
+- feat: add training progress logging to stdout
+
+
