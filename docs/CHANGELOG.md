@@ -1303,3 +1303,7 @@ All notable changes are documented here.
 - feat: add training progress logging to stdout
 
 
+### 2025-02-26
+- fix: resolve label encoding issue for unseen circuit IDs
+
+
