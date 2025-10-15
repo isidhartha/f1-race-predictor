@@ -1307,3 +1307,7 @@ All notable changes are documented here.
 - fix: resolve label encoding issue for unseen circuit IDs
 
 
+### 2025-02-26
+- style: format with black
+
+
