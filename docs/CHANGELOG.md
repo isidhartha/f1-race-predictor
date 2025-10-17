@@ -1311,3 +1311,7 @@ All notable changes are documented here.
 - style: format with black
 
 
+### 2025-02-26
+- feat: add training progress logging to stdout
+
+
