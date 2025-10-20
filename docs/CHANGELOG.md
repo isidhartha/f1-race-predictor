@@ -1315,3 +1315,7 @@ All notable changes are documented here.
 - feat: add training progress logging to stdout
 
 
+### 2025-03-02
+- test: add CLI argument parsing tests
+
+
