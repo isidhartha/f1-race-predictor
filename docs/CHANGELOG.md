@@ -1323,3 +1323,7 @@ All notable changes are documented here.
 - style: normalise imports with isort
 
 
+### 2025-03-14
+- docs: document prediction input dict schema
+
+
