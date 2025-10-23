@@ -1327,3 +1327,7 @@ All notable changes are documented here.
 - docs: document prediction input dict schema
 
 
+### 2025-03-16
+- chore: pin scikit-learn to 1.3 for API stability
+
+
