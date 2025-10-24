@@ -1331,3 +1331,7 @@ All notable changes are documented here.
 - chore: pin scikit-learn to 1.3 for API stability
 
 
+### 2025-03-16
+- fix: correct feature ordering in prediction input dict
+
+
