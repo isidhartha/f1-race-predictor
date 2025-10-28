@@ -1335,3 +1335,7 @@ All notable changes are documented here.
 - fix: correct feature ordering in prediction input dict
 
 
+### 2025-03-20
+- chore: add pre-commit hooks for black and ruff
+
+
