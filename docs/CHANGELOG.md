@@ -1343,3 +1343,7 @@ All notable changes are documented here.
 - perf: use joblib parallel backend for cross-validation
 
 
+### 2025-04-03
+- test: add unit tests for feature engineering correctness
+
+
