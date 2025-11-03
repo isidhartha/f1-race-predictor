@@ -1347,3 +1347,7 @@ All notable changes are documented here.
 - test: add unit tests for feature engineering correctness
 
 
+### 2025-04-05
+- docs: document prediction input dict schema
+
+
