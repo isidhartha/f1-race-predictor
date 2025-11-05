@@ -1355,3 +1355,7 @@ All notable changes are documented here.
 - test: add regression test for model prediction stability
 
 
+### 2025-04-14
+- feat: implement prediction CLI flag for inference
+
+
