@@ -1359,3 +1359,7 @@ All notable changes are documented here.
 - feat: implement prediction CLI flag for inference
 
 
+### 2025-04-18
+- fix: fix safety car lap count parsing from raw data
+
+
