@@ -1363,3 +1363,7 @@ All notable changes are documented here.
 - fix: fix safety car lap count parsing from raw data
 
 
+### 2025-04-19
+- perf: use joblib parallel backend for cross-validation
+
+
