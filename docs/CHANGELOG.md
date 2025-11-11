@@ -1367,3 +1367,7 @@ All notable changes are documented here.
 - perf: use joblib parallel backend for cross-validation
 
 
+### 2025-04-29
+- perf: cache fitted label encoder to avoid re-fitting
+
+
