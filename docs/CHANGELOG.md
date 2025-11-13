@@ -1371,3 +1371,7 @@ All notable changes are documented here.
 - perf: cache fitted label encoder to avoid re-fitting
 
 
+### 2025-04-30
+- feat: implement qualifying time feature in milliseconds
+
+
