@@ -1379,3 +1379,7 @@ All notable changes are documented here.
 - feat: implement constructor performance points feature
 
 
+### 2025-05-20
+- docs: add model selection rationale to architecture.md
+
+
