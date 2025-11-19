@@ -1383,3 +1383,7 @@ All notable changes are documented here.
 - docs: add model selection rationale to architecture.md
 
 
+### 2025-05-23
+- feat: add training CLI flag via argparse
+
+
