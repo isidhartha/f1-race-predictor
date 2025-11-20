@@ -1387,3 +1387,7 @@ All notable changes are documented here.
 - feat: add training CLI flag via argparse
 
 
+### 2025-05-23
+- test: add unit tests for feature engineering correctness
+
+
