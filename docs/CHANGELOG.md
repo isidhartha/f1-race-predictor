@@ -1391,3 +1391,7 @@ All notable changes are documented here.
 - test: add unit tests for feature engineering correctness
 
 
+### 2025-05-24
+- feat: add example prediction with sample input dictionary
+
+
