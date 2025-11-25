@@ -1395,3 +1395,7 @@ All notable changes are documented here.
 - feat: add example prediction with sample input dictionary
 
 
+### 2025-05-27
+- fix: resolve label encoding issue for unseen circuit IDs
+
+
