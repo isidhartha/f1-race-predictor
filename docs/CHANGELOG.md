@@ -1403,3 +1403,7 @@ All notable changes are documented here.
 - fix: handle missing values in qualifying time column
 
 
+### 2025-05-30
+- perf: use joblib parallel backend for cross-validation
+
+
