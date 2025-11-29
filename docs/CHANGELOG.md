@@ -1407,3 +1407,7 @@ All notable changes are documented here.
 - perf: use joblib parallel backend for cross-validation
 
 
+### 2025-06-09
+- docs: document synthetic data schema and generation logic
+
+
