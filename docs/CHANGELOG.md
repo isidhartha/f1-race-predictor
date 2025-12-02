@@ -1411,3 +1411,7 @@ All notable changes are documented here.
 - docs: document synthetic data schema and generation logic
 
 
+### 2025-06-11
+- docs: update architecture.md with ML pipeline diagram
+
+
