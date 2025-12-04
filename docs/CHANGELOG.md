@@ -1419,3 +1419,7 @@ All notable changes are documented here.
 - style: fix ruff violations in predictor module
 
 
+### 2025-06-23
+- fix: fix safety car lap count parsing from raw data
+
+
