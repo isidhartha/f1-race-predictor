@@ -1423,3 +1423,7 @@ All notable changes are documented here.
 - fix: fix safety car lap count parsing from raw data
 
 
+### 2025-06-24
+- feat: implement GradientBoostingClassifier for position prediction
+
+
