@@ -1427,3 +1427,7 @@ All notable changes are documented here.
 - feat: implement GradientBoostingClassifier for position prediction
 
 
+### 2025-06-26
+- docs: document synthetic data schema and generation logic
+
+
