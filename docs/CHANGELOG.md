@@ -1435,3 +1435,7 @@ All notable changes are documented here.
 - feat: implement GradientBoostingClassifier for position prediction
 
 
+### 2025-07-10
+- chore: add pre-commit hooks for black and ruff
+
+
