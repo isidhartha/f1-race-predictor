@@ -1443,3 +1443,7 @@ All notable changes are documented here.
 - feat: add safety car laps count as race variable
 
 
+### 2025-07-17
+- fix: correct feature ordering in prediction input dict
+
+
