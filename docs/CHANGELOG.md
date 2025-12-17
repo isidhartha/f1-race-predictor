@@ -1447,3 +1447,7 @@ All notable changes are documented here.
 - fix: correct feature ordering in prediction input dict
 
 
+### 2025-07-17
+- feat: implement 80/20 train-test split with random seed
+
+
