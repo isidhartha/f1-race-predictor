@@ -1451,3 +1451,7 @@ All notable changes are documented here.
 - feat: implement 80/20 train-test split with random seed
 
 
+### 2025-07-24
+- style: normalise imports with isort
+
+
