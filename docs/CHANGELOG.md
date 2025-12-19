@@ -1455,3 +1455,7 @@ All notable changes are documented here.
 - style: normalise imports with isort
 
 
+### 2025-07-27
+- docs: add model selection rationale to architecture.md
+
+
