@@ -1463,3 +1463,7 @@ All notable changes are documented here.
 - docs: document prediction input dict schema
 
 
+### 2025-08-13
+- feat: add feature importance output after training
+
+
