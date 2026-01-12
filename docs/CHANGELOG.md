@@ -1471,3 +1471,7 @@ All notable changes are documented here.
 - feat: implement 80/20 train-test split with random seed
 
 
+### 2025-08-15
+- feat: implement hyperparameter configuration via constants
+
+
