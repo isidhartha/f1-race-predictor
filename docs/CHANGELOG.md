@@ -1475,3 +1475,7 @@ All notable changes are documented here.
 - feat: implement hyperparameter configuration via constants
 
 
+### 2025-08-18
+- style: normalise imports with isort
+
+
