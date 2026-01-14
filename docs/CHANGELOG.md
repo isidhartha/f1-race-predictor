@@ -1479,3 +1479,7 @@ All notable changes are documented here.
 - style: normalise imports with isort
 
 
+### 2025-08-19
+- feat: implement prediction CLI flag for inference
+
+
