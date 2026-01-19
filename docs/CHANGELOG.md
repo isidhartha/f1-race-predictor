@@ -1487,3 +1487,7 @@ All notable changes are documented here.
 - feat: implement pit stop count as strategy proxy feature
 
 
+### 2025-08-22
+- style: normalise imports with isort
+
+
