@@ -1495,3 +1495,7 @@ All notable changes are documented here.
 - feat: implement constructor performance points feature
 
 
+### 2025-09-12
+- feat: implement qualifying time feature in milliseconds
+
+
