@@ -1499,3 +1499,7 @@ All notable changes are documented here.
 - feat: implement qualifying time feature in milliseconds
 
 
+### 2025-09-13
+- test: add synthetic data generator shape and type tests
+
+
