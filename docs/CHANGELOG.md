@@ -1503,3 +1503,7 @@ All notable changes are documented here.
 - test: add synthetic data generator shape and type tests
 
 
+### 2025-09-16
+- feat: add model persistence with joblib serialisation
+
+
