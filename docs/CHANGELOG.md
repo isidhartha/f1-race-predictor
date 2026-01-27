@@ -1507,3 +1507,7 @@ All notable changes are documented here.
 - feat: add model persistence with joblib serialisation
 
 
+### 2025-09-19
+- fix: resolve label encoding issue for unseen circuit IDs
+
+
