@@ -1511,3 +1511,7 @@ All notable changes are documented here.
 - fix: resolve label encoding issue for unseen circuit IDs
 
 
+### 2025-09-28
+- fix: fix random state parameter for full reproducibility
+
+
