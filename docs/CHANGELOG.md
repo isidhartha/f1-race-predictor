@@ -1515,3 +1515,7 @@ All notable changes are documented here.
 - fix: fix random state parameter for full reproducibility
 
 
+### 2025-10-02
+- feat: implement qualifying time feature in milliseconds
+
+
