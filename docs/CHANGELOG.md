@@ -1527,3 +1527,7 @@ All notable changes are documented here.
 - feat: add example prediction with sample input dictionary
 
 
+### 2025-10-07
+- feat: add training CLI flag via argparse
+
+
