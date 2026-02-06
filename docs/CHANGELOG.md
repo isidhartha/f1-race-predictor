@@ -1531,3 +1531,7 @@ All notable changes are documented here.
 - feat: add training CLI flag via argparse
 
 
+### 2025-10-11
+- fix: resolve label encoding issue for unseen circuit IDs
+
+
