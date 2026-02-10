@@ -1539,3 +1539,7 @@ All notable changes are documented here.
 - feat: add safety car laps count as race variable
 
 
+### 2025-10-15
+- feat: add training progress logging to stdout
+
+
