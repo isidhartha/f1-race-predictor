@@ -1543,3 +1543,7 @@ All notable changes are documented here.
 - feat: add training progress logging to stdout
 
 
+### 2025-10-17
+- feat: implement prediction CLI flag for inference
+
+
