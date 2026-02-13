@@ -1551,3 +1551,7 @@ All notable changes are documented here.
 - fix: fix safety car lap count parsing from raw data
 
 
+### 2025-10-22
+- feat: add feature importance output after training
+
+
