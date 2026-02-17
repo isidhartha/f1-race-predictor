@@ -1555,3 +1555,7 @@ All notable changes are documented here.
 - feat: add feature importance output after training
 
 
+### 2025-10-23
+- docs: add model training guide to README setup section
+
+
