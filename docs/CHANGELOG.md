@@ -1559,3 +1559,7 @@ All notable changes are documented here.
 - docs: add model training guide to README setup section
 
 
+### 2025-10-23
+- perf: cache fitted label encoder to avoid re-fitting
+
+
