@@ -1567,3 +1567,7 @@ All notable changes are documented here.
 - fix: fix random state parameter for full reproducibility
 
 
+### 2025-10-29
+- test: add model save and reload round-trip test
+
+
