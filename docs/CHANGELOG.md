@@ -1571,3 +1571,7 @@ All notable changes are documented here.
 - test: add model save and reload round-trip test
 
 
+### 2025-10-31
+- feat: implement pit stop count as strategy proxy feature
+
+
