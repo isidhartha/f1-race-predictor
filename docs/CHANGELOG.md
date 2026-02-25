@@ -1575,3 +1575,7 @@ All notable changes are documented here.
 - feat: implement pit stop count as strategy proxy feature
 
 
+### 2025-11-06
+- feat: add synthetic data generator for demo and CI mode
+
+
