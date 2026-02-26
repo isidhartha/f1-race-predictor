@@ -1579,3 +1579,7 @@ All notable changes are documented here.
 - feat: add synthetic data generator for demo and CI mode
 
 
+### 2025-11-08
+- feat: implement GradientBoostingClassifier for position prediction
+
+
