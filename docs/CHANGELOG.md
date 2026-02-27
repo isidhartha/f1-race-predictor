@@ -1583,3 +1583,7 @@ All notable changes are documented here.
 - feat: implement GradientBoostingClassifier for position prediction
 
 
+### 2025-11-09
+- style: normalise imports with isort
+
+
