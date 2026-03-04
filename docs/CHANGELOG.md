@@ -1591,3 +1591,7 @@ All notable changes are documented here.
 - docs: add model selection rationale to architecture.md
 
 
+### 2025-11-13
+- test: add CLI argument parsing tests
+
+
