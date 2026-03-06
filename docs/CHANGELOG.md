@@ -1599,3 +1599,7 @@ All notable changes are documented here.
 - feat: implement prediction CLI flag for inference
 
 
+### 2025-11-15
+- feat: implement pit stop count as strategy proxy feature
+
+
