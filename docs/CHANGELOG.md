@@ -1603,3 +1603,7 @@ All notable changes are documented here.
 - feat: implement pit stop count as strategy proxy feature
 
 
+### 2025-11-17
+- chore: add pre-commit hooks for black and ruff
+
+
