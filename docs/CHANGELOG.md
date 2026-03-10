@@ -1607,3 +1607,7 @@ All notable changes are documented here.
 - chore: add pre-commit hooks for black and ruff
 
 
+### 2025-11-18
+- feat: add model persistence with joblib serialisation
+
+
