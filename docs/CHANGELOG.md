@@ -1611,3 +1611,7 @@ All notable changes are documented here.
 - feat: add model persistence with joblib serialisation
 
 
+### 2025-11-20
+- refactor: move model path to environment variable
+
+
