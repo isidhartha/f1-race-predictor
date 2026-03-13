@@ -1615,3 +1615,7 @@ All notable changes are documented here.
 - refactor: move model path to environment variable
 
 
+### 2025-11-20
+- fix: handle edge case with zero pit stops in feature
+
+
