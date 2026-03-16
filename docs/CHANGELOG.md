@@ -1619,3 +1619,7 @@ All notable changes are documented here.
 - fix: handle edge case with zero pit stops in feature
 
 
+### 2025-11-26
+- fix: fix safety car lap count parsing from raw data
+
+
