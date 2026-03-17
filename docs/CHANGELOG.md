@@ -1623,3 +1623,7 @@ All notable changes are documented here.
 - fix: fix safety car lap count parsing from raw data
 
 
+### 2025-11-27
+- refactor: separate synthetic data into data_utils module
+
+
