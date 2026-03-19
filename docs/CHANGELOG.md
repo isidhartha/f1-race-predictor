@@ -1627,3 +1627,7 @@ All notable changes are documented here.
 - refactor: separate synthetic data into data_utils module
 
 
+### 2025-11-30
+- docs: update architecture.md with ML pipeline diagram
+
+
