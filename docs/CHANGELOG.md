@@ -1635,3 +1635,7 @@ All notable changes are documented here.
 - docs: document synthetic data schema and generation logic
 
 
+### 2025-12-02
+- docs: add model selection rationale to architecture.md
+
+
