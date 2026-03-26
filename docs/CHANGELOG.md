@@ -1643,3 +1643,7 @@ All notable changes are documented here.
 - fix: handle edge case with zero pit stops in feature
 
 
+### 2025-12-04
+- fix: resolve label encoding issue for unseen circuit IDs
+
+
