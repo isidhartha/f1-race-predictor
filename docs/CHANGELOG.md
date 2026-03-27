@@ -1647,3 +1647,7 @@ All notable changes are documented here.
 - fix: resolve label encoding issue for unseen circuit IDs
 
 
+### 2025-12-07
+- feat: implement qualifying time feature in milliseconds
+
+
