@@ -1651,3 +1651,7 @@ All notable changes are documented here.
 - feat: implement qualifying time feature in milliseconds
 
 
+### 2025-12-17
+- feat: add safety car laps count as race variable
+
+
