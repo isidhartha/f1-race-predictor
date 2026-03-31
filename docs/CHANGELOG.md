@@ -1655,3 +1655,7 @@ All notable changes are documented here.
 - feat: add safety car laps count as race variable
 
 
+### 2025-12-20
+- docs: document all eight feature definitions and rationale
+
+
