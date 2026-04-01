@@ -1659,3 +1659,7 @@ All notable changes are documented here.
 - docs: document all eight feature definitions and rationale
 
 
+### 2025-12-23
+- docs: add model training guide to README setup section
+
+
