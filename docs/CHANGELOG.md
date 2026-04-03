@@ -1663,3 +1663,7 @@ All notable changes are documented here.
 - docs: add model training guide to README setup section
 
 
+### 2025-12-31
+- perf: use joblib parallel backend for cross-validation
+
+
