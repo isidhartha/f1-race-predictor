@@ -1667,3 +1667,7 @@ All notable changes are documented here.
 - perf: use joblib parallel backend for cross-validation
 
 
+### 2026-01-08
+- test: add CLI argument parsing tests
+
+
