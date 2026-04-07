@@ -1671,3 +1671,7 @@ All notable changes are documented here.
 - test: add CLI argument parsing tests
 
 
+### 2026-01-16
+- feat: add example prediction with sample input dictionary
+
+
