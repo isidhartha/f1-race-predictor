@@ -1675,3 +1675,7 @@ All notable changes are documented here.
 - feat: add example prediction with sample input dictionary
 
 
+### 2026-01-22
+- perf: cache fitted label encoder to avoid re-fitting
+
+
