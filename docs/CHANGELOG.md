@@ -1683,3 +1683,7 @@ All notable changes are documented here.
 - test: add unit tests for feature engineering correctness
 
 
+### 2026-02-10
+- docs: add model training guide to README setup section
+
+
