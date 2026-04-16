@@ -1691,3 +1691,7 @@ All notable changes are documented here.
 - perf: cache fitted label encoder to avoid re-fitting
 
 
+### 2026-02-13
+- test: add model save and reload round-trip test
+
+
