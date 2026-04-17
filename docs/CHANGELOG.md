@@ -1695,3 +1695,7 @@ All notable changes are documented here.
 - test: add model save and reload round-trip test
 
 
+### 2026-02-14
+- docs: add model training guide to README setup section
+
+
