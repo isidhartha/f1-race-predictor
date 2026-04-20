@@ -1699,3 +1699,7 @@ All notable changes are documented here.
 - docs: add model training guide to README setup section
 
 
+### 2026-02-18
+- feat: add driver championship points before race feature
+
+
