@@ -1703,3 +1703,7 @@ All notable changes are documented here.
 - feat: add driver championship points before race feature
 
 
+### 2026-02-22
+- fix: resolve label encoding issue for unseen circuit IDs
+
+
