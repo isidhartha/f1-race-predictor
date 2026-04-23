@@ -1707,3 +1707,7 @@ All notable changes are documented here.
 - fix: resolve label encoding issue for unseen circuit IDs
 
 
+### 2026-02-23
+- chore: add pre-commit hooks for black and ruff
+
+
