@@ -1715,3 +1715,7 @@ All notable changes are documented here.
 - perf: use joblib parallel backend for cross-validation
 
 
+### 2026-02-28
+- fix: correct model save path creation when models dir missing
+
+
