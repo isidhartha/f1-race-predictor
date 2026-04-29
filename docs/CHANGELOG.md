@@ -1719,3 +1719,7 @@ All notable changes are documented here.
 - fix: correct model save path creation when models dir missing
 
 
+### 2026-03-05
+- fix: resolve joblib version compatibility with sklearn
+
+
