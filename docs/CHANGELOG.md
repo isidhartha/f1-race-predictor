@@ -1723,3 +1723,7 @@ All notable changes are documented here.
 - fix: resolve joblib version compatibility with sklearn
 
 
+### 2026-03-10
+- feat: implement constructor performance points feature
+
+
