@@ -1727,3 +1727,7 @@ All notable changes are documented here.
 - feat: implement constructor performance points feature
 
 
+### 2026-03-12
+- refactor: consolidate model save and load logic
+
+
