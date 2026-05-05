@@ -1735,3 +1735,7 @@ All notable changes are documented here.
 - feat: add synthetic data generator for demo and CI mode
 
 
+### 2026-03-25
+- style: normalise imports with isort
+
+
