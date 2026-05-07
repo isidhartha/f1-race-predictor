@@ -1739,3 +1739,7 @@ All notable changes are documented here.
 - style: normalise imports with isort
 
 
+### 2026-03-26
+- feat: implement weather condition code as ordinal feature
+
+
