@@ -1743,3 +1743,7 @@ All notable changes are documented here.
 - feat: implement weather condition code as ordinal feature
 
 
+### 2026-04-01
+- fix: fix safety car lap count parsing from raw data
+
+
