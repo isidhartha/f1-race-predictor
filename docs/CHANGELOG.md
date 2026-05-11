@@ -1747,3 +1747,7 @@ All notable changes are documented here.
 - fix: fix safety car lap count parsing from raw data
 
 
+### 2026-04-03
+- docs: add model training guide to README setup section
+
+
