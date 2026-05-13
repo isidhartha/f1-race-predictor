@@ -1751,3 +1751,7 @@ All notable changes are documented here.
 - docs: add model training guide to README setup section
 
 
+### 2026-04-16
+- feat: implement qualifying time feature in milliseconds
+
+
