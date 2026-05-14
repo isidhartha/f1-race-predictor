@@ -1755,3 +1755,7 @@ All notable changes are documented here.
 - feat: implement qualifying time feature in milliseconds
 
 
+### 2026-04-18
+- refactor: consolidate model save and load logic
+
+
