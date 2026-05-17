@@ -1759,3 +1759,7 @@ All notable changes are documented here.
 - refactor: consolidate model save and load logic
 
 
+### 2026-04-19
+- fix: resolve joblib version compatibility with sklearn
+
+
