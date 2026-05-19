@@ -1763,3 +1763,7 @@ All notable changes are documented here.
 - fix: resolve joblib version compatibility with sklearn
 
 
+### 2026-04-23
+- refactor: extract evaluation metrics into helper function
+
+
