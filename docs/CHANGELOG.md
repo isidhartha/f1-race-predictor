@@ -1767,3 +1767,7 @@ All notable changes are documented here.
 - refactor: extract evaluation metrics into helper function
 
 
+### 2026-04-30
+- test: add model save and reload round-trip test
+
+
