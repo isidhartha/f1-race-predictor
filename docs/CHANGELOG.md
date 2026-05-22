@@ -1771,3 +1771,7 @@ All notable changes are documented here.
 - test: add model save and reload round-trip test
 
 
+### 2026-05-04
+- feat: add feature importance output after training
+
+
