@@ -1775,3 +1775,7 @@ All notable changes are documented here.
 - feat: add feature importance output after training
 
 
+### 2026-05-07
+- feat: add model persistence with joblib serialisation
+
+
