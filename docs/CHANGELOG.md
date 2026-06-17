@@ -1779,3 +1779,7 @@ All notable changes are documented here.
 - feat: add model persistence with joblib serialisation
 
 
+### 2026-05-17
+- feat: add safety car laps count as race variable
+
+
