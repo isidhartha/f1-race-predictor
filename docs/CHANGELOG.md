@@ -1783,3 +1783,7 @@ All notable changes are documented here.
 - feat: add safety car laps count as race variable
 
 
+### 2026-05-19
+- test: add CLI argument parsing tests
+
+
