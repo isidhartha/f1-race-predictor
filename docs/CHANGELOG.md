@@ -1787,3 +1787,7 @@ All notable changes are documented here.
 - test: add CLI argument parsing tests
 
 
+### 2026-05-22
+- feat: add driver championship points before race feature
+
+
