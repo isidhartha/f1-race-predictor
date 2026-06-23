@@ -1791,3 +1791,7 @@ All notable changes are documented here.
 - feat: add driver championship points before race feature
 
 
+### 2026-06-20
+- docs: document all eight feature definitions and rationale
+
+
