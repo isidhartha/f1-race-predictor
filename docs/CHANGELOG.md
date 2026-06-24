@@ -1795,3 +1795,7 @@ All notable changes are documented here.
 - docs: document all eight feature definitions and rationale
 
 
+### 2026-06-22
+- fix: handle missing values in qualifying time column
+
+
