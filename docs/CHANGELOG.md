@@ -1799,3 +1799,7 @@ All notable changes are documented here.
 - fix: handle missing values in qualifying time column
 
 
+### 2026-06-23
+- feat: implement batch prediction from CSV file input
+
+
