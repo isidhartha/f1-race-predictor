@@ -1803,3 +1803,7 @@ All notable changes are documented here.
 - feat: implement batch prediction from CSV file input
 
 
+### 2026-06-23
+- fix: resolve joblib version compatibility with sklearn
+
+
