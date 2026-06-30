@@ -1807,3 +1807,7 @@ All notable changes are documented here.
 - fix: resolve joblib version compatibility with sklearn
 
 
+### 2026-06-26
+- style: normalise imports with isort
+
+
