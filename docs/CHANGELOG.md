@@ -1811,3 +1811,7 @@ All notable changes are documented here.
 - style: normalise imports with isort
 
 
+### 2026-06-29
+- feat: add grid position as primary input feature
+
+
