@@ -1815,3 +1815,7 @@ All notable changes are documented here.
 - feat: add grid position as primary input feature
 
 
+### 2026-07-01
+- fix: handle missing values in qualifying time column
+
+
