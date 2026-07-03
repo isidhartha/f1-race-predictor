@@ -1819,3 +1819,7 @@ All notable changes are documented here.
 - fix: handle missing values in qualifying time column
 
 
+### 2026-07-02
+- chore: add pre-commit hooks for black and ruff
+
+
