@@ -1,6 +1,6 @@
 # F1 Race Predictor
 
-A machine learning model that predicts Formula 1 race finishing positions from pre-race features. It trains a Gradient Boosting Classifier on historical race data (or auto-generated synthetic data when no CSV is present), saves the trained model to disk, and can predict a finish position for any set of input features from the command line.
+A machine learning model that predicts Formula 1 race finishing positions from pre-race features. It trains a Gradient Boosting Classifier on historical race data (or synthetic data when no CSV is present), saves the trained model to disk, and can predict a finish position for any set of input features from the command line.
 
 **Author:** Ram Sidhartha
 
@@ -10,7 +10,7 @@ A machine learning model that predicts Formula 1 race finishing positions from p
 
 - **Gradient Boosting Classifier** — `sklearn.ensemble.GradientBoostingClassifier` with 200 estimators, max depth 4, and learning rate 0.05
 - **8 input features** — grid position, qualifying time (ms), driver championship points before the race, constructor championship points before the race, circuit ID, weather code (0=dry / 1=wet / 2=mixed), safety car laps, and pit stop count
-- **Synthetic data fallback** — when no `data/races.csv` file is found, the script generates 5,000 synthetic rows with grid position correlated to finish position plus random noise, so you can train and test immediately without any real data
+- **Synthetic data fallback** — when no `data/races.csv` file is found, the script generates 5,000 synthetic rows with grid position correlated to finish position plus random noise, so you can run a full train/evaluate cycle immediately without needing real data
 - **Train/test split evaluation** — 80/20 split with a full `classification_report` printed to the terminal showing per-position precision, recall, and F1-score
 - **Model persistence** — trained model is saved to `models/f1_predictor.joblib` using `joblib`; subsequent `--predict` runs load the saved model without retraining
 - **Example prediction** — `--predict` runs a hardcoded example (grid P3, dry conditions, 2 pit stops) and prints the predicted finish position
