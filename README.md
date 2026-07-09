@@ -1,5 +1,7 @@
 # F1 Race Predictor
 
+[![Discussions](https://img.shields.io/github/discussions/isidhartha/f1-race-predictor)](https://github.com/isidhartha/f1-race-predictor/discussions)
+
 A machine learning model that predicts Formula 1 race finishing positions from pre-race features. It trains a Gradient Boosting Classifier on historical race data (or synthetic data when no CSV is present), saves the trained model to disk, and can predict a finish position for any set of input features from the command line.
 
 **Author:** Ram Sidhartha
@@ -34,12 +36,18 @@ A machine learning model that predicts Formula 1 race finishing positions from p
 pip install -r requirements.txt
 
 # Train the model (uses synthetic data if data/races.csv is absent)
+
+[![Discussions](https://img.shields.io/github/discussions/isidhartha/f1-race-predictor)](https://github.com/isidhartha/f1-race-predictor/discussions)
 python predictor.py --train
 
 # Run the example prediction (trains first if no saved model exists)
+
+[![Discussions](https://img.shields.io/github/discussions/isidhartha/f1-race-predictor)](https://github.com/isidhartha/f1-race-predictor/discussions)
 python predictor.py --predict
 
 # Train and then immediately predict
+
+[![Discussions](https://img.shields.io/github/discussions/isidhartha/f1-race-predictor)](https://github.com/isidhartha/f1-race-predictor/discussions)
 python predictor.py --train --predict
 ```
 
