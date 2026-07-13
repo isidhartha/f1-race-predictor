@@ -1,5 +1,7 @@
 # F1 Race Predictor
 
+[![Discussions](https://img.shields.io/github/discussions/isidhartha/f1-race-predictor)](https://github.com/isidhartha/f1-race-predictor/discussions)
+
 Trains a gradient-boosted model on historical F1 race data to predict where a driver will finish, given a set of pre-race features. The idea is straightforward: grid position, qualifying pace, championship momentum, circuit familiarity, weather, and strategy choices all correlate meaningfully with race outcome. This tool tries to capture that relationship in a single Gradient Boosting Classifier.
 
 You bring your own CSV of historical race data. If you don't have one yet, the script generates 5,000 rows of synthetic data — grid positions correlated with finishing positions plus realistic noise — so you can run a full train-evaluate cycle right away and see what the model produces before sourcing real data.
