@@ -4,6 +4,8 @@
 
 Trains a gradient-boosted model on historical F1 race data to predict where a driver will finish, given a set of pre-race features. The idea is straightforward: grid position, qualifying pace, championship momentum, circuit familiarity, weather, and strategy choices all correlate meaningfully with race outcome. This tool tries to capture that relationship in a single Gradient Boosting Classifier.
 
+I wanted to know if F1 race outcomes are actually predictable from pre-race data or if the sport is just too chaotic for models to touch. Turns out: grid position dominates everything, but team form and track type add meaningful signal once you control for it. This is my attempt to quantify that.
+
 You bring your own CSV of historical race data. If you don't have one yet, the script generates 5,000 rows of synthetic data — grid positions correlated with finishing positions plus realistic noise — so you can run a full train-evaluate cycle right away and see what the model produces before sourcing real data.
 
 Once trained, the model saves to `models/f1_predictor.joblib` and can be loaded for predictions without retraining. The `--predict` flag runs a built-in example (P3 on the grid, dry conditions, 2 pit stops) and prints the predicted finish position.
@@ -81,7 +83,18 @@ flowchart TD
 
 ## Demo
 
-> Screenshots coming soon.
+![Desktop view](docs/images/screenshot_desktop.png)
+
+![Feature highlight](docs/images/screenshot_feature.png)
+
+<details>
+<summary>Mobile / compact view</summary>
+
+![Mobile view](docs/images/screenshot_mobile.png)
+
+</details>
+
+![Demo walkthrough](docs/images/demo.gif)
 
 ## Contributing
 
